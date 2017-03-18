@@ -7233,9 +7233,9 @@
                     "startLine": 2060,
                     "startColumn": 4,
                     "startOffset": 146526,
-                    "endLine": 2064,
+                    "endLine": 2067,
                     "endColumn": 12,
-                    "endOffset": 146827
+                    "endOffset": 147026
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\src\\main\\res\\values\\styles.xml",
@@ -7243,20 +7243,20 @@
                         "startLine": 19,
                         "startColumn": 4,
                         "startOffset": 706,
-                        "endLine": 23,
+                        "endLine": 26,
                         "endColumn": 12,
-                        "endOffset": 1007
+                        "endOffset": 1206
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 2065,
+                    "startLine": 2068,
                     "startColumn": 4,
-                    "startOffset": 146832,
-                    "endLine": 2067,
+                    "startOffset": 147031,
+                    "endLine": 2070,
                     "endColumn": 12,
-                    "endOffset": 146956
+                    "endOffset": 147155
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\src\\main\\res\\values\\styles.xml"
@@ -7264,25 +7264,12 @@
             },
             {
                 "to": {
-                    "startLine": 2068,
-                    "startColumn": 4,
-                    "startOffset": 146961,
-                    "endLine": 2070,
-                    "endColumn": 12,
-                    "endOffset": 147110
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
                     "startLine": 2071,
                     "startColumn": 4,
-                    "startOffset": 147115,
-                    "endLine": 2075,
+                    "startOffset": 147160,
+                    "endLine": 2073,
                     "endColumn": 12,
-                    "endOffset": 147468
+                    "endOffset": 147309
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -7290,12 +7277,12 @@
             },
             {
                 "to": {
-                    "startLine": 2076,
+                    "startLine": 2074,
                     "startColumn": 4,
-                    "startOffset": 147473,
+                    "startOffset": 147314,
                     "endLine": 2078,
                     "endColumn": 12,
-                    "endOffset": 147635
+                    "endOffset": 147667
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -7305,10 +7292,10 @@
                 "to": {
                     "startLine": 2079,
                     "startColumn": 4,
-                    "startOffset": 147640,
-                    "endLine": 2083,
+                    "startOffset": 147672,
+                    "endLine": 2081,
                     "endColumn": 12,
-                    "endOffset": 148005
+                    "endOffset": 147834
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -7316,12 +7303,12 @@
             },
             {
                 "to": {
-                    "startLine": 2084,
+                    "startLine": 2082,
                     "startColumn": 4,
-                    "startOffset": 148010,
-                    "endLine": 2087,
+                    "startOffset": 147839,
+                    "endLine": 2086,
                     "endColumn": 12,
-                    "endOffset": 148165
+                    "endOffset": 148204
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -7329,12 +7316,12 @@
             },
             {
                 "to": {
-                    "startLine": 2088,
+                    "startLine": 2087,
                     "startColumn": 4,
-                    "startOffset": 148170,
-                    "endLine": 2091,
+                    "startOffset": 148209,
+                    "endLine": 2090,
                     "endColumn": 12,
-                    "endOffset": 148319
+                    "endOffset": 148364
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -7342,47 +7329,24 @@
             },
             {
                 "to": {
-                    "startLine": 2092,
+                    "startLine": 2091,
                     "startColumn": 4,
-                    "startOffset": 148324,
-                    "endColumn": 79,
-                    "endOffset": 148399
+                    "startOffset": 148369,
+                    "endLine": 2094,
+                    "endColumn": 12,
+                    "endOffset": 148518
                 },
                 "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2093,
-                    "startColumn": 4,
-                    "startOffset": 148404,
-                    "endColumn": 99,
-                    "endOffset": 148499
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2094,
-                    "startColumn": 4,
-                    "startOffset": 148504,
-                    "endColumn": 89,
-                    "endOffset": 148589
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 2095,
                     "startColumn": 4,
-                    "startOffset": 148594,
-                    "endColumn": 109,
-                    "endOffset": 148699
+                    "startOffset": 148523,
+                    "endColumn": 79,
+                    "endOffset": 148598
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7392,9 +7356,9 @@
                 "to": {
                     "startLine": 2096,
                     "startColumn": 4,
-                    "startOffset": 148704,
-                    "endColumn": 93,
-                    "endOffset": 148793
+                    "startOffset": 148603,
+                    "endColumn": 99,
+                    "endOffset": 148698
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7404,9 +7368,9 @@
                 "to": {
                     "startLine": 2097,
                     "startColumn": 4,
-                    "startOffset": 148798,
-                    "endColumn": 105,
-                    "endOffset": 148899
+                    "startOffset": 148703,
+                    "endColumn": 89,
+                    "endOffset": 148788
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7416,9 +7380,9 @@
                 "to": {
                     "startLine": 2098,
                     "startColumn": 4,
-                    "startOffset": 148904,
-                    "endColumn": 91,
-                    "endOffset": 148991
+                    "startOffset": 148793,
+                    "endColumn": 109,
+                    "endOffset": 148898
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7428,10 +7392,21 @@
                 "to": {
                     "startLine": 2099,
                     "startColumn": 4,
-                    "startOffset": 148996,
-                    "endLine": 2100,
-                    "endColumn": 12,
-                    "endOffset": 149091
+                    "startOffset": 148903,
+                    "endColumn": 93,
+                    "endOffset": 148992
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2100,
+                    "startColumn": 4,
+                    "startOffset": 148997,
+                    "endColumn": 105,
+                    "endOffset": 149098
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7441,10 +7416,9 @@
                 "to": {
                     "startLine": 2101,
                     "startColumn": 4,
-                    "startOffset": 149096,
-                    "endLine": 2102,
-                    "endColumn": 12,
-                    "endOffset": 149203
+                    "startOffset": 149103,
+                    "endColumn": 91,
+                    "endOffset": 149190
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7452,12 +7426,12 @@
             },
             {
                 "to": {
-                    "startLine": 2103,
+                    "startLine": 2102,
                     "startColumn": 4,
-                    "startOffset": 149208,
-                    "endLine": 2104,
+                    "startOffset": 149195,
+                    "endLine": 2103,
                     "endColumn": 12,
-                    "endOffset": 149317
+                    "endOffset": 149290
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7465,12 +7439,12 @@
             },
             {
                 "to": {
-                    "startLine": 2105,
+                    "startLine": 2104,
                     "startColumn": 4,
-                    "startOffset": 149322,
-                    "endLine": 2106,
+                    "startOffset": 149295,
+                    "endLine": 2105,
                     "endColumn": 12,
-                    "endOffset": 149433
+                    "endOffset": 149402
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7478,12 +7452,12 @@
             },
             {
                 "to": {
-                    "startLine": 2107,
+                    "startLine": 2106,
                     "startColumn": 4,
-                    "startOffset": 149438,
-                    "endLine": 2108,
+                    "startOffset": 149407,
+                    "endLine": 2107,
                     "endColumn": 12,
-                    "endOffset": 149549
+                    "endOffset": 149516
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7491,11 +7465,12 @@
             },
             {
                 "to": {
-                    "startLine": 2109,
+                    "startLine": 2108,
                     "startColumn": 4,
-                    "startOffset": 149554,
-                    "endColumn": 93,
-                    "endOffset": 149643
+                    "startOffset": 149521,
+                    "endLine": 2109,
+                    "endColumn": 12,
+                    "endOffset": 149632
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7505,21 +7480,10 @@
                 "to": {
                     "startLine": 2110,
                     "startColumn": 4,
-                    "startOffset": 149648,
-                    "endColumn": 113,
-                    "endOffset": 149757
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2111,
-                    "startColumn": 4,
-                    "startOffset": 149762,
-                    "endColumn": 111,
-                    "endOffset": 149869
+                    "startOffset": 149637,
+                    "endLine": 2111,
+                    "endColumn": 12,
+                    "endOffset": 149748
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7529,10 +7493,21 @@
                 "to": {
                     "startLine": 2112,
                     "startColumn": 4,
-                    "startOffset": 149874,
-                    "endLine": 2113,
-                    "endColumn": 12,
-                    "endOffset": 149971
+                    "startOffset": 149753,
+                    "endColumn": 93,
+                    "endOffset": 149842
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2113,
+                    "startColumn": 4,
+                    "startOffset": 149847,
+                    "endColumn": 113,
+                    "endOffset": 149956
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7542,10 +7517,9 @@
                 "to": {
                     "startLine": 2114,
                     "startColumn": 4,
-                    "startOffset": 149976,
-                    "endLine": 2115,
-                    "endColumn": 12,
-                    "endOffset": 150091
+                    "startOffset": 149961,
+                    "endColumn": 111,
+                    "endOffset": 150068
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7553,12 +7527,12 @@
             },
             {
                 "to": {
-                    "startLine": 2116,
+                    "startLine": 2115,
                     "startColumn": 4,
-                    "startOffset": 150096,
-                    "endLine": 2117,
+                    "startOffset": 150073,
+                    "endLine": 2116,
                     "endColumn": 12,
-                    "endOffset": 150213
+                    "endOffset": 150170
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7566,11 +7540,12 @@
             },
             {
                 "to": {
-                    "startLine": 2118,
+                    "startLine": 2117,
                     "startColumn": 4,
-                    "startOffset": 150218,
-                    "endColumn": 81,
-                    "endOffset": 150295
+                    "startOffset": 150175,
+                    "endLine": 2118,
+                    "endColumn": 12,
+                    "endOffset": 150290
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7580,21 +7555,10 @@
                 "to": {
                     "startLine": 2119,
                     "startColumn": 4,
-                    "startOffset": 150300,
-                    "endColumn": 103,
-                    "endOffset": 150399
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2120,
-                    "startColumn": 4,
-                    "startOffset": 150404,
-                    "endColumn": 119,
-                    "endOffset": 150519
+                    "startOffset": 150295,
+                    "endLine": 2120,
+                    "endColumn": 12,
+                    "endOffset": 150412
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7604,9 +7568,9 @@
                 "to": {
                     "startLine": 2121,
                     "startColumn": 4,
-                    "startOffset": 150524,
-                    "endColumn": 125,
-                    "endOffset": 150645
+                    "startOffset": 150417,
+                    "endColumn": 81,
+                    "endOffset": 150494
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7616,9 +7580,9 @@
                 "to": {
                     "startLine": 2122,
                     "startColumn": 4,
-                    "startOffset": 150650,
-                    "endColumn": 97,
-                    "endOffset": 150743
+                    "startOffset": 150499,
+                    "endColumn": 103,
+                    "endOffset": 150598
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7628,9 +7592,9 @@
                 "to": {
                     "startLine": 2123,
                     "startColumn": 4,
-                    "startOffset": 150748,
-                    "endColumn": 93,
-                    "endOffset": 150837
+                    "startOffset": 150603,
+                    "endColumn": 119,
+                    "endOffset": 150718
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7640,9 +7604,9 @@
                 "to": {
                     "startLine": 2124,
                     "startColumn": 4,
-                    "startOffset": 150842,
-                    "endColumn": 87,
-                    "endOffset": 150925
+                    "startOffset": 150723,
+                    "endColumn": 125,
+                    "endOffset": 150844
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7652,9 +7616,9 @@
                 "to": {
                     "startLine": 2125,
                     "startColumn": 4,
-                    "startOffset": 150930,
-                    "endColumn": 111,
-                    "endOffset": 151037
+                    "startOffset": 150849,
+                    "endColumn": 97,
+                    "endOffset": 150942
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7664,9 +7628,9 @@
                 "to": {
                     "startLine": 2126,
                     "startColumn": 4,
-                    "startOffset": 151042,
-                    "endColumn": 115,
-                    "endOffset": 151153
+                    "startOffset": 150947,
+                    "endColumn": 93,
+                    "endOffset": 151036
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7676,9 +7640,9 @@
                 "to": {
                     "startLine": 2127,
                     "startColumn": 4,
-                    "startOffset": 151158,
-                    "endColumn": 121,
-                    "endOffset": 151275
+                    "startOffset": 151041,
+                    "endColumn": 87,
+                    "endOffset": 151124
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7688,9 +7652,9 @@
                 "to": {
                     "startLine": 2128,
                     "startColumn": 4,
-                    "startOffset": 151280,
+                    "startOffset": 151129,
                     "endColumn": 111,
-                    "endOffset": 151387
+                    "endOffset": 151236
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7700,10 +7664,33 @@
                 "to": {
                     "startLine": 2129,
                     "startColumn": 4,
-                    "startOffset": 151392,
-                    "endLine": 2131,
-                    "endColumn": 12,
-                    "endOffset": 151562
+                    "startOffset": 151241,
+                    "endColumn": 115,
+                    "endOffset": 151352
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2130,
+                    "startColumn": 4,
+                    "startOffset": 151357,
+                    "endColumn": 121,
+                    "endOffset": 151474
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2131,
+                    "startColumn": 4,
+                    "startOffset": 151479,
+                    "endColumn": 111,
+                    "endOffset": 151586
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7713,33 +7700,10 @@
                 "to": {
                     "startLine": 2132,
                     "startColumn": 4,
-                    "startOffset": 151567,
-                    "endColumn": 115,
-                    "endOffset": 151678
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2133,
-                    "startColumn": 4,
-                    "startOffset": 151683,
-                    "endColumn": 85,
-                    "endOffset": 151764
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2134,
-                    "startColumn": 4,
-                    "startOffset": 151769,
-                    "endColumn": 91,
-                    "endOffset": 151856
+                    "startOffset": 151591,
+                    "endLine": 2134,
+                    "endColumn": 12,
+                    "endOffset": 151761
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7749,10 +7713,21 @@
                 "to": {
                     "startLine": 2135,
                     "startColumn": 4,
-                    "startOffset": 151861,
-                    "endLine": 2136,
-                    "endColumn": 12,
-                    "endOffset": 151968
+                    "startOffset": 151766,
+                    "endColumn": 115,
+                    "endOffset": 151877
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2136,
+                    "startColumn": 4,
+                    "startOffset": 151882,
+                    "endColumn": 85,
+                    "endOffset": 151963
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7762,10 +7737,9 @@
                 "to": {
                     "startLine": 2137,
                     "startColumn": 4,
-                    "startOffset": 151973,
-                    "endLine": 2138,
-                    "endColumn": 12,
-                    "endOffset": 152092
+                    "startOffset": 151968,
+                    "endColumn": 91,
+                    "endOffset": 152055
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7773,11 +7747,12 @@
             },
             {
                 "to": {
-                    "startLine": 2139,
+                    "startLine": 2138,
                     "startColumn": 4,
-                    "startOffset": 152097,
-                    "endColumn": 66,
-                    "endOffset": 152159
+                    "startOffset": 152060,
+                    "endLine": 2139,
+                    "endColumn": 12,
+                    "endOffset": 152167
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7787,10 +7762,10 @@
                 "to": {
                     "startLine": 2140,
                     "startColumn": 4,
-                    "startOffset": 152164,
+                    "startOffset": 152172,
                     "endLine": 2141,
                     "endColumn": 12,
-                    "endOffset": 152285
+                    "endOffset": 152291
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7800,9 +7775,9 @@
                 "to": {
                     "startLine": 2142,
                     "startColumn": 4,
-                    "startOffset": 152290,
-                    "endColumn": 67,
-                    "endOffset": 152353
+                    "startOffset": 152296,
+                    "endColumn": 66,
+                    "endOffset": 152358
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7812,10 +7787,10 @@
                 "to": {
                     "startLine": 2143,
                     "startColumn": 4,
-                    "startOffset": 152358,
+                    "startOffset": 152363,
                     "endLine": 2144,
                     "endColumn": 12,
-                    "endOffset": 152481
+                    "endOffset": 152484
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7825,10 +7800,9 @@
                 "to": {
                     "startLine": 2145,
                     "startColumn": 4,
-                    "startOffset": 152486,
-                    "endLine": 2146,
-                    "endColumn": 12,
-                    "endOffset": 152625
+                    "startOffset": 152489,
+                    "endColumn": 67,
+                    "endOffset": 152552
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7836,12 +7810,12 @@
             },
             {
                 "to": {
-                    "startLine": 2147,
+                    "startLine": 2146,
                     "startColumn": 4,
-                    "startOffset": 152630,
-                    "endLine": 2148,
+                    "startOffset": 152557,
+                    "endLine": 2147,
                     "endColumn": 12,
-                    "endOffset": 152753
+                    "endOffset": 152680
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7849,11 +7823,12 @@
             },
             {
                 "to": {
-                    "startLine": 2149,
+                    "startLine": 2148,
                     "startColumn": 4,
-                    "startOffset": 152758,
-                    "endColumn": 68,
-                    "endOffset": 152822
+                    "startOffset": 152685,
+                    "endLine": 2149,
+                    "endColumn": 12,
+                    "endOffset": 152824
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7863,21 +7838,10 @@
                 "to": {
                     "startLine": 2150,
                     "startColumn": 4,
-                    "startOffset": 152827,
-                    "endColumn": 94,
-                    "endOffset": 152917
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2151,
-                    "startColumn": 4,
-                    "startOffset": 152922,
-                    "endColumn": 114,
-                    "endOffset": 153032
+                    "startOffset": 152829,
+                    "endLine": 2151,
+                    "endColumn": 12,
+                    "endOffset": 152952
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7887,9 +7851,9 @@
                 "to": {
                     "startLine": 2152,
                     "startColumn": 4,
-                    "startOffset": 153037,
-                    "endColumn": 112,
-                    "endOffset": 153145
+                    "startOffset": 152957,
+                    "endColumn": 68,
+                    "endOffset": 153021
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7899,9 +7863,9 @@
                 "to": {
                     "startLine": 2153,
                     "startColumn": 4,
-                    "startOffset": 153150,
-                    "endColumn": 98,
-                    "endOffset": 153244
+                    "startOffset": 153026,
+                    "endColumn": 94,
+                    "endOffset": 153116
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7911,9 +7875,9 @@
                 "to": {
                     "startLine": 2154,
                     "startColumn": 4,
-                    "startOffset": 153249,
-                    "endColumn": 108,
-                    "endOffset": 153353
+                    "startOffset": 153121,
+                    "endColumn": 114,
+                    "endOffset": 153231
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7923,9 +7887,9 @@
                 "to": {
                     "startLine": 2155,
                     "startColumn": 4,
-                    "startOffset": 153358,
-                    "endColumn": 110,
-                    "endOffset": 153464
+                    "startOffset": 153236,
+                    "endColumn": 112,
+                    "endOffset": 153344
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7935,9 +7899,9 @@
                 "to": {
                     "startLine": 2156,
                     "startColumn": 4,
-                    "startOffset": 153469,
-                    "endColumn": 110,
-                    "endOffset": 153575
+                    "startOffset": 153349,
+                    "endColumn": 98,
+                    "endOffset": 153443
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7947,9 +7911,9 @@
                 "to": {
                     "startLine": 2157,
                     "startColumn": 4,
-                    "startOffset": 153580,
-                    "endColumn": 100,
-                    "endOffset": 153676
+                    "startOffset": 153448,
+                    "endColumn": 108,
+                    "endOffset": 153552
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7959,9 +7923,9 @@
                 "to": {
                     "startLine": 2158,
                     "startColumn": 4,
-                    "startOffset": 153681,
-                    "endColumn": 104,
-                    "endOffset": 153781
+                    "startOffset": 153557,
+                    "endColumn": 110,
+                    "endOffset": 153663
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7971,9 +7935,9 @@
                 "to": {
                     "startLine": 2159,
                     "startColumn": 4,
-                    "startOffset": 153786,
-                    "endColumn": 99,
-                    "endOffset": 153881
+                    "startOffset": 153668,
+                    "endColumn": 110,
+                    "endOffset": 153774
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7983,10 +7947,21 @@
                 "to": {
                     "startLine": 2160,
                     "startColumn": 4,
-                    "startOffset": 153886,
-                    "endLine": 2161,
-                    "endColumn": 12,
-                    "endOffset": 154011
+                    "startOffset": 153779,
+                    "endColumn": 100,
+                    "endOffset": 153875
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2161,
+                    "startColumn": 4,
+                    "startOffset": 153880,
+                    "endColumn": 104,
+                    "endOffset": 153980
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -7996,9 +7971,9 @@
                 "to": {
                     "startLine": 2162,
                     "startColumn": 4,
-                    "startOffset": 154016,
-                    "endColumn": 90,
-                    "endOffset": 154102
+                    "startOffset": 153985,
+                    "endColumn": 99,
+                    "endOffset": 154080
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8008,21 +7983,10 @@
                 "to": {
                     "startLine": 2163,
                     "startColumn": 4,
-                    "startOffset": 154107,
-                    "endColumn": 122,
-                    "endOffset": 154225
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2164,
-                    "startColumn": 4,
-                    "startOffset": 154230,
-                    "endColumn": 93,
-                    "endOffset": 154319
+                    "startOffset": 154085,
+                    "endLine": 2164,
+                    "endColumn": 12,
+                    "endOffset": 154210
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8032,10 +7996,21 @@
                 "to": {
                     "startLine": 2165,
                     "startColumn": 4,
-                    "startOffset": 154324,
-                    "endLine": 2166,
-                    "endColumn": 12,
-                    "endOffset": 154431
+                    "startOffset": 154215,
+                    "endColumn": 90,
+                    "endOffset": 154301
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2166,
+                    "startColumn": 4,
+                    "startOffset": 154306,
+                    "endColumn": 122,
+                    "endOffset": 154424
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8045,9 +8020,9 @@
                 "to": {
                     "startLine": 2167,
                     "startColumn": 4,
-                    "startOffset": 154436,
-                    "endColumn": 85,
-                    "endOffset": 154517
+                    "startOffset": 154429,
+                    "endColumn": 93,
+                    "endOffset": 154518
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8057,21 +8032,10 @@
                 "to": {
                     "startLine": 2168,
                     "startColumn": 4,
-                    "startOffset": 154522,
-                    "endColumn": 103,
-                    "endOffset": 154621
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2169,
-                    "startColumn": 4,
-                    "startOffset": 154626,
-                    "endColumn": 95,
-                    "endOffset": 154717
+                    "startOffset": 154523,
+                    "endLine": 2169,
+                    "endColumn": 12,
+                    "endOffset": 154630
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8081,9 +8045,9 @@
                 "to": {
                     "startLine": 2170,
                     "startColumn": 4,
-                    "startOffset": 154722,
-                    "endColumn": 74,
-                    "endOffset": 154792
+                    "startOffset": 154635,
+                    "endColumn": 85,
+                    "endOffset": 154716
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8093,9 +8057,9 @@
                 "to": {
                     "startLine": 2171,
                     "startColumn": 4,
-                    "startOffset": 154797,
-                    "endColumn": 69,
-                    "endOffset": 154862
+                    "startOffset": 154721,
+                    "endColumn": 103,
+                    "endOffset": 154820
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8105,9 +8069,9 @@
                 "to": {
                     "startLine": 2172,
                     "startColumn": 4,
-                    "startOffset": 154867,
-                    "endColumn": 87,
-                    "endOffset": 154950
+                    "startOffset": 154825,
+                    "endColumn": 95,
+                    "endOffset": 154916
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8117,10 +8081,21 @@
                 "to": {
                     "startLine": 2173,
                     "startColumn": 4,
-                    "startOffset": 154955,
-                    "endLine": 2174,
-                    "endColumn": 12,
-                    "endOffset": 155068
+                    "startOffset": 154921,
+                    "endColumn": 74,
+                    "endOffset": 154991
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2174,
+                    "startColumn": 4,
+                    "startOffset": 154996,
+                    "endColumn": 69,
+                    "endOffset": 155061
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8130,48 +8105,48 @@
                 "to": {
                     "startLine": 2175,
                     "startColumn": 4,
-                    "startOffset": 155073,
-                    "endLine": 2176,
-                    "endColumn": 12,
-                    "endOffset": 155172
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2177,
-                    "startColumn": 4,
-                    "startOffset": 155177,
-                    "endLine": 2178,
-                    "endColumn": 12,
-                    "endOffset": 155276
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2179,
-                    "startColumn": 4,
-                    "startOffset": 155281,
-                    "endLine": 2180,
-                    "endColumn": 12,
-                    "endOffset": 155402
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2181,
-                    "startColumn": 4,
-                    "startOffset": 155407,
+                    "startOffset": 155066,
                     "endColumn": 87,
-                    "endOffset": 155490
+                    "endOffset": 155149
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2176,
+                    "startColumn": 4,
+                    "startOffset": 155154,
+                    "endLine": 2177,
+                    "endColumn": 12,
+                    "endOffset": 155267
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2178,
+                    "startColumn": 4,
+                    "startOffset": 155272,
+                    "endLine": 2179,
+                    "endColumn": 12,
+                    "endOffset": 155371
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2180,
+                    "startColumn": 4,
+                    "startOffset": 155376,
+                    "endLine": 2181,
+                    "endColumn": 12,
+                    "endOffset": 155475
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8181,21 +8156,10 @@
                 "to": {
                     "startLine": 2182,
                     "startColumn": 4,
-                    "startOffset": 155495,
-                    "endColumn": 107,
-                    "endOffset": 155598
-                },
-                "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 2183,
-                    "startColumn": 4,
-                    "startOffset": 155603,
-                    "endColumn": 99,
-                    "endOffset": 155698
+                    "startOffset": 155480,
+                    "endLine": 2183,
+                    "endColumn": 12,
+                    "endOffset": 155601
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8205,9 +8169,9 @@
                 "to": {
                     "startLine": 2184,
                     "startColumn": 4,
-                    "startOffset": 155703,
-                    "endColumn": 89,
-                    "endOffset": 155788
+                    "startOffset": 155606,
+                    "endColumn": 87,
+                    "endOffset": 155689
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8217,9 +8181,9 @@
                 "to": {
                     "startLine": 2185,
                     "startColumn": 4,
-                    "startOffset": 155793,
-                    "endColumn": 109,
-                    "endOffset": 155898
+                    "startOffset": 155694,
+                    "endColumn": 107,
+                    "endOffset": 155797
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8229,9 +8193,9 @@
                 "to": {
                     "startLine": 2186,
                     "startColumn": 4,
-                    "startOffset": 155903,
-                    "endColumn": 83,
-                    "endOffset": 155982
+                    "startOffset": 155802,
+                    "endColumn": 99,
+                    "endOffset": 155897
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8241,9 +8205,9 @@
                 "to": {
                     "startLine": 2187,
                     "startColumn": 4,
-                    "startOffset": 155987,
-                    "endColumn": 101,
-                    "endOffset": 156084
+                    "startOffset": 155902,
+                    "endColumn": 89,
+                    "endOffset": 155987
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8253,9 +8217,9 @@
                 "to": {
                     "startLine": 2188,
                     "startColumn": 4,
-                    "startOffset": 156089,
-                    "endColumn": 83,
-                    "endOffset": 156168
+                    "startOffset": 155992,
+                    "endColumn": 109,
+                    "endOffset": 156097
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8265,9 +8229,9 @@
                 "to": {
                     "startLine": 2189,
                     "startColumn": 4,
-                    "startOffset": 156173,
-                    "endColumn": 53,
-                    "endOffset": 156222
+                    "startOffset": 156102,
+                    "endColumn": 83,
+                    "endOffset": 156181
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8277,9 +8241,9 @@
                 "to": {
                     "startLine": 2190,
                     "startColumn": 4,
-                    "startOffset": 156227,
-                    "endColumn": 63,
-                    "endOffset": 156286
+                    "startOffset": 156186,
+                    "endColumn": 101,
+                    "endOffset": 156283
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8289,9 +8253,9 @@
                 "to": {
                     "startLine": 2191,
                     "startColumn": 4,
-                    "startOffset": 156291,
-                    "endColumn": 105,
-                    "endOffset": 156392
+                    "startOffset": 156288,
+                    "endColumn": 83,
+                    "endOffset": 156367
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8301,9 +8265,9 @@
                 "to": {
                     "startLine": 2192,
                     "startColumn": 4,
-                    "startOffset": 156397,
-                    "endColumn": 109,
-                    "endOffset": 156502
+                    "startOffset": 156372,
+                    "endColumn": 53,
+                    "endOffset": 156421
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8313,9 +8277,9 @@
                 "to": {
                     "startLine": 2193,
                     "startColumn": 4,
-                    "startOffset": 156507,
-                    "endColumn": 83,
-                    "endOffset": 156586
+                    "startOffset": 156426,
+                    "endColumn": 63,
+                    "endOffset": 156485
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8325,9 +8289,9 @@
                 "to": {
                     "startLine": 2194,
                     "startColumn": 4,
-                    "startOffset": 156591,
-                    "endColumn": 119,
-                    "endOffset": 156706
+                    "startOffset": 156490,
+                    "endColumn": 105,
+                    "endOffset": 156591
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
@@ -8337,23 +8301,46 @@
                 "to": {
                     "startLine": 2195,
                     "startColumn": 4,
-                    "startOffset": 156711,
-                    "endLine": 2196,
-                    "endColumn": 12,
-                    "endOffset": 156806
+                    "startOffset": 156596,
+                    "endColumn": 109,
+                    "endOffset": 156701
                 },
                 "from": {
-                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2196,
+                    "startColumn": 4,
+                    "startOffset": 156706,
+                    "endColumn": 83,
+                    "endOffset": 156785
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 2197,
                     "startColumn": 4,
-                    "startOffset": 156811,
-                    "endLine": 2200,
+                    "startOffset": 156790,
+                    "endColumn": 119,
+                    "endOffset": 156905
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2198,
+                    "startColumn": 4,
+                    "startOffset": 156910,
+                    "endLine": 2199,
                     "endColumn": 12,
-                    "endOffset": 157047
+                    "endOffset": 157005
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8361,12 +8348,12 @@
             },
             {
                 "to": {
-                    "startLine": 2201,
+                    "startLine": 2200,
                     "startColumn": 4,
-                    "startOffset": 157052,
-                    "endLine": 2207,
+                    "startOffset": 157010,
+                    "endLine": 2203,
                     "endColumn": 12,
-                    "endOffset": 157482
+                    "endOffset": 157246
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8374,12 +8361,12 @@
             },
             {
                 "to": {
-                    "startLine": 2208,
+                    "startLine": 2204,
                     "startColumn": 4,
-                    "startOffset": 157487,
-                    "endLine": 2211,
+                    "startOffset": 157251,
+                    "endLine": 2210,
                     "endColumn": 12,
-                    "endOffset": 157689
+                    "endOffset": 157681
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8387,12 +8374,12 @@
             },
             {
                 "to": {
-                    "startLine": 2212,
+                    "startLine": 2211,
                     "startColumn": 4,
-                    "startOffset": 157694,
+                    "startOffset": 157686,
                     "endLine": 2214,
                     "endColumn": 12,
-                    "endOffset": 157848
+                    "endOffset": 157888
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8402,10 +8389,10 @@
                 "to": {
                     "startLine": 2215,
                     "startColumn": 4,
-                    "startOffset": 157853,
-                    "endLine": 2223,
+                    "startOffset": 157893,
+                    "endLine": 2217,
                     "endColumn": 12,
-                    "endOffset": 158413
+                    "endOffset": 158047
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8413,12 +8400,12 @@
             },
             {
                 "to": {
-                    "startLine": 2224,
+                    "startLine": 2218,
                     "startColumn": 4,
-                    "startOffset": 158418,
-                    "endLine": 2229,
+                    "startOffset": 158052,
+                    "endLine": 2226,
                     "endColumn": 12,
-                    "endOffset": 158774
+                    "endOffset": 158612
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8426,12 +8413,12 @@
             },
             {
                 "to": {
-                    "startLine": 2230,
+                    "startLine": 2227,
                     "startColumn": 4,
-                    "startOffset": 158779,
+                    "startOffset": 158617,
                     "endLine": 2232,
                     "endColumn": 12,
-                    "endOffset": 158903
+                    "endOffset": 158973
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8441,10 +8428,10 @@
                 "to": {
                     "startLine": 2233,
                     "startColumn": 4,
-                    "startOffset": 158908,
-                    "endLine": 2241,
+                    "startOffset": 158978,
+                    "endLine": 2235,
                     "endColumn": 12,
-                    "endOffset": 159570
+                    "endOffset": 159102
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8452,12 +8439,12 @@
             },
             {
                 "to": {
-                    "startLine": 2242,
+                    "startLine": 2236,
                     "startColumn": 4,
-                    "startOffset": 159575,
-                    "endLine": 2245,
+                    "startOffset": 159107,
+                    "endLine": 2244,
                     "endColumn": 12,
-                    "endOffset": 159750
+                    "endOffset": 159769
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
@@ -8465,12 +8452,25 @@
             },
             {
                 "to": {
-                    "startLine": 2246,
+                    "startLine": 2245,
                     "startColumn": 4,
-                    "startOffset": 159755,
-                    "endLine": 2254,
+                    "startOffset": 159774,
+                    "endLine": 2248,
                     "endColumn": 12,
-                    "endOffset": 160459
+                    "endOffset": 159949
+                },
+                "from": {
+                    "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 2249,
+                    "startColumn": 4,
+                    "startOffset": 159954,
+                    "endLine": 2257,
+                    "endColumn": 12,
+                    "endOffset": 160658
                 },
                 "from": {
                     "file": "F:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\values\\values.xml"
