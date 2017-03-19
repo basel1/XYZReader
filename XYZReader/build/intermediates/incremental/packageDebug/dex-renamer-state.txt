@@ -1,4 +1,4 @@
-#Sat Mar 18 20:22:49 EET 2017
+#Sun Mar 19 03:05:06 EET 2017
 base.0=F\:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=F\:\\NanoDegre\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
